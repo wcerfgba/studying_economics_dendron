@@ -10,6 +10,7 @@ site:
     copyAssets: true
     siteHierarchies:
         - root
+    siteUrl: https://wcerfgba.github.io/studying_economics/
     siteRootDir: docs
     usePrettyRefs: true
     title: Dendron
